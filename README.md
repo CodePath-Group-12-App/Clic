@@ -71,58 +71,18 @@ This app is for users that want to encourage activity within their neighborhoods
    * Activity Creation
 
 ## Wireframes
+[Add picture of your hand sketched wireframes in this section]
+<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
 
 ## Schema 
+[This section will be completed in Unit 9]
 ### Models
-| Property      | Type     | Description |
-| ------------- | -------- | ------------|
-| author        | Pointer to User| image author |
-| objectId      | String   | unique id for the user post (default field) |
-| username      | String   | string of username
-| question      | String   | text question by author |
-| choiceA       | String   | text for choice A |
-| choiceB       | String   | text for choice B |
-| bio           | String   | string of biography |
-| comment       | String   | string of comment |
-| commentsCount | Number   | number of comments that has been posted to an image |
-| upvoteCount    | Number  | number of upvote for the post |
-| downvoteCount | Number   | number of downvote for the post| 
-| choiceACount  | Number   | number of votes for option A of the post |
-| choiceBCount  | Number   | number of votes for option B of the post |
-| createdAt     | DateTime | date when post is created (default field) |
-| updatedAt     | DateTime | date when post is last updated (default field)
-| profilePhoto  | File     | image to display for user profile |
-| image         | File     | image that user posts |
-
+[Add table of models]
 ### Networking
-Network requests by screen
-* Login Screen
-    * (Create/POST) Create a username/password
-    * (Create/POST) Create a profilePhoto
-* Main Feed (followers)
-    * (Read/GET) Query all activity from friends 
-    * (Update/PUT) Update going status count by 1
-    * (Create/POST) Create a new comment on post
-    * (Update/PUT) Update comment (edit)
-    * (Update/PUT) Update going count on chosen option
-    * (Delete) Delete existing comment
-* Activity
-    * (Create/POST) Create a new activity object
-* User Profile
-    * (Read/GET) Query logged in user object
-    * (Update/PUT) Update user profile image
-    * (Update/PUT) Update existing activites
-    * (Delete) Delete post
-* Local Feed
-    * (Read/GET) Query all posts from nearest location and time
-    * (Create/POST) Create a comment under a post
-    * (Update/PUT) Update comment string
-    * (Delete) Delete existing comment
-    
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
