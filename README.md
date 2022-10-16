@@ -71,7 +71,6 @@ This app is for users that want to encourage activity within their neighborhoods
    * Poll Creation
 
 ## Wireframes
-![](https://i.imgur.com/qFfalHt.png)
 
 ### [BONUS] Digital Wireframes & Mockups
 
