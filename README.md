@@ -68,7 +68,7 @@ This app is for users that want to encourage activity within their neighborhoods
    * Profile Page
 * Main Feed Screen (Top Corner Buttons)
    * Logout
-   * Poll Creation
+   * Activity Creation
 
 ## Wireframes
 
