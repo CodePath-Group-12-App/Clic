@@ -64,7 +64,7 @@ This app is for users that want to encourage activity within their neighborhoods
    * segue to Main Feed after successful login
 * Main Feed Screen (Tabs at Bottom Navi Bar)
    * Main Feed
-   * Trending Feed
+   * Local Feed
    * Profile Page
 * Main Feed Screen (Top Corner Buttons)
    * Logout
@@ -104,7 +104,7 @@ Network requests by screen
     * (Create/POST) Create a username/password
     * (Create/POST) Create a profilePhoto
 * Main Feed (followers)
-    * (Read/GET) Query all posts where followers are authors 
+    * (Read/GET) Query all activity from friends 
     * (Update/PUT) Update going status count by 1
     * (Create/POST) Create a new comment on post
     * (Update/PUT) Update comment (edit)
@@ -115,8 +115,7 @@ Network requests by screen
 * User Profile
     * (Read/GET) Query logged in user object
     * (Update/PUT) Update user profile image
-    * (Update/PUT) Update user bio
-    * (Update/PUT) Update existing post
+    * (Update/PUT) Update existing activites
     * (Delete) Delete post
 * Local Feed
     * (Read/GET) Query all posts from nearest location and time
