@@ -79,10 +79,47 @@ This app is for users that want to encourage activity within their neighborhoods
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+| Property      | Type     | Description |
+| ------------- | -------- | ------------|
+| author        | Pointer to User| image author |
+| objectId      | String   | unique id for the user post (default field) |
+| username      | String   | string of username
+| activity      | String   | activity by author |
+| comment       | String   | string of comment |
+| goingCount    | Number   | number of people going to activity |
+| createdAt     | DateTime | date when post is created (default field) |
+| updatedAt     | DateTime | date when post is last updated (default field)
+| profilePhoto  | File     | image to display for user profile |
+| image         | File     | image that user posts |
+
 ### Networking
+Network requests by screen
+* Login Screen
+    * (Create/POST) Create a username/password
+    * (Create/POST) Create a profilePhoto
+* Main Feed (followers)
+    * (Read/GET) Query all posts where followers are authors 
+    * (Update/PUT) Update going count by 1
+    * (Create/POST) Create a new comment on post
+    * (Update/PUT) Update comment (edit)
+    * (Update/PUT) Update going count on chosen option
+    * (Delete) Delete existing comment
+* Post Question
+    * (Create/POST) Create a new activity
+* User Profile
+    * (Read/GET) Query logged in user object
+    * (Update/PUT) Update user profile image
+    * (Update/PUT) Update user bio
+    * (Update/PUT) Update existing post
+    * (Delete) Delete post
+* Local Feed
+    * (Read/GET) Query all posts in date order of event occuring
+    * (Create/POST) Create a comment under a post
+    * (Update/PUT) Update going count by 1
+    * (Update/PUT) Update comment string
+    * (Delete) Delete existing comment
+  
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
