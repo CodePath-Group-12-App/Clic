@@ -26,6 +26,7 @@ This app is for users that want to encourage activity within their neighborhoods
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
+
 * [ ] User sees an app icon on the home screen and can see a styled launch screen
 * [ ] Users can run applications on their own device
 * [ ] Users are able to view an organized login page
@@ -37,6 +38,7 @@ This app is for users that want to encourage activity within their neighborhoods
 * [ ] User can see two tabs, one main feed (local posts) and another tab with their friends private posts
 
 **Optional Nice-to-have Stories**
+
 * [ ] User can use their precise location with automatic location tracking
 
 ### 2. Screen Archetypes
@@ -57,12 +59,14 @@ This app is for users that want to encourage activity within their neighborhoods
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
+
 * Main feed
 * Local feed
 * Activity Creation
 * User Profile
 
 **Flow Navigation** (Screen to Screen)
+
 * Login screen
    * segue to Main Feed after successful login
 * Main Feed Screen (Tabs at Bottom Navi Bar)
