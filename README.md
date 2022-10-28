@@ -26,7 +26,10 @@ This app is for users that want to encourage activity within their neighborhoods
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
-* [ ] User should be able to post planned/on giong activites
+* [ ] User sees an app icon on the home screen and can see a styled launch screen
+* [ ] Users can run applications on their own device
+* [ ] Users are able to view an organized login page
+* [ ] User should be able to post planned/ongoing activites
 * [ ] User should be able to say they are interested and recieve updates from the activity
 * [ ] User should be able to post pictures from the evenr
 * [ ] User can upvote other peoples posts
@@ -71,7 +74,7 @@ This app is for users that want to encourage activity within their neighborhoods
    * Activity Creation
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
+
 <img src="https://i.imgur.com/lO4PIoS.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
