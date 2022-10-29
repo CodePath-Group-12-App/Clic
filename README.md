@@ -77,9 +77,16 @@ This app is for users that want to encourage activity within their neighborhoods
    * Logout
    * Activity Creation
 
+
 ## Wireframes
 
 <img src="https://i.imgur.com/lO4PIoS.jpg" width=600>
+
+## Current Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/7Jws9s6I9Q.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### [BONUS] Digital Wireframes & Mockups
 
