@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  ClipApp
+//  ClicApp
 //
 //  Created by Jesse Oseafiana on 10/28/22.
 //

@@ -7,68 +7,68 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		60AC2FB9290CC2A200503515 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AC2FB8290CC2A200503515 /* AppDelegate.swift */; };
-		60AC2FBB290CC2A200503515 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AC2FBA290CC2A200503515 /* SceneDelegate.swift */; };
-		60AC2FBD290CC2A200503515 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AC2FBC290CC2A200503515 /* ViewController.swift */; };
-		60AC2FC0290CC2A200503515 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60AC2FBE290CC2A200503515 /* Main.storyboard */; };
-		60AC2FC3290CC2A200503515 /* ClipApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 60AC2FC1290CC2A200503515 /* ClipApp.xcdatamodeld */; };
-		60AC2FC5290CC2A300503515 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60AC2FC4290CC2A300503515 /* Assets.xcassets */; };
-		60AC2FC8290CC2A300503515 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60AC2FC6290CC2A300503515 /* LaunchScreen.storyboard */; };
-		60AC2FD3290CC2A300503515 /* ClipAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AC2FD2290CC2A300503515 /* ClipAppTests.swift */; };
-		60AC2FDD290CC2A300503515 /* ClipAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AC2FDC290CC2A300503515 /* ClipAppUITests.swift */; };
-		60AC2FDF290CC2A300503515 /* ClipAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AC2FDE290CC2A300503515 /* ClipAppUITestsLaunchTests.swift */; };
+		60AC2FF8290CC33C00503515 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AC2FF7290CC33C00503515 /* AppDelegate.swift */; };
+		60AC2FFA290CC33C00503515 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AC2FF9290CC33C00503515 /* SceneDelegate.swift */; };
+		60AC2FFC290CC33C00503515 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AC2FFB290CC33C00503515 /* ViewController.swift */; };
+		60AC2FFF290CC33C00503515 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60AC2FFD290CC33C00503515 /* Main.storyboard */; };
+		60AC3002290CC33C00503515 /* ClicApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 60AC3000290CC33C00503515 /* ClicApp.xcdatamodeld */; };
+		60AC3004290CC33E00503515 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60AC3003290CC33E00503515 /* Assets.xcassets */; };
+		60AC3007290CC33E00503515 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60AC3005290CC33E00503515 /* LaunchScreen.storyboard */; };
+		60AC3012290CC33E00503515 /* ClicAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AC3011290CC33E00503515 /* ClicAppTests.swift */; };
+		60AC301C290CC33E00503515 /* ClicAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AC301B290CC33E00503515 /* ClicAppUITests.swift */; };
+		60AC301E290CC33E00503515 /* ClicAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AC301D290CC33E00503515 /* ClicAppUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		60AC2FCF290CC2A300503515 /* PBXContainerItemProxy */ = {
+		60AC300E290CC33E00503515 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 60AC2FAD290CC2A200503515 /* Project object */;
+			containerPortal = 60AC2FEC290CC33C00503515 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 60AC2FB4290CC2A200503515;
-			remoteInfo = ClipApp;
+			remoteGlobalIDString = 60AC2FF3290CC33C00503515;
+			remoteInfo = ClicApp;
 		};
-		60AC2FD9290CC2A300503515 /* PBXContainerItemProxy */ = {
+		60AC3018290CC33E00503515 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 60AC2FAD290CC2A200503515 /* Project object */;
+			containerPortal = 60AC2FEC290CC33C00503515 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 60AC2FB4290CC2A200503515;
-			remoteInfo = ClipApp;
+			remoteGlobalIDString = 60AC2FF3290CC33C00503515;
+			remoteInfo = ClicApp;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		60AC2FB5290CC2A200503515 /* ClipApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClipApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		60AC2FB8290CC2A200503515 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		60AC2FBA290CC2A200503515 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		60AC2FBC290CC2A200503515 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		60AC2FBF290CC2A200503515 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		60AC2FC2290CC2A200503515 /* ClipApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ClipApp.xcdatamodel; sourceTree = "<group>"; };
-		60AC2FC4290CC2A300503515 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		60AC2FC7290CC2A300503515 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		60AC2FC9290CC2A300503515 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		60AC2FCE290CC2A300503515 /* ClipAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClipAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		60AC2FD2290CC2A300503515 /* ClipAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClipAppTests.swift; sourceTree = "<group>"; };
-		60AC2FD8290CC2A300503515 /* ClipAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClipAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		60AC2FDC290CC2A300503515 /* ClipAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClipAppUITests.swift; sourceTree = "<group>"; };
-		60AC2FDE290CC2A300503515 /* ClipAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClipAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		60AC2FF4290CC33C00503515 /* ClicApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClicApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		60AC2FF7290CC33C00503515 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		60AC2FF9290CC33C00503515 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		60AC2FFB290CC33C00503515 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		60AC2FFE290CC33C00503515 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		60AC3001290CC33C00503515 /* ClicApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ClicApp.xcdatamodel; sourceTree = "<group>"; };
+		60AC3003290CC33E00503515 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		60AC3006290CC33E00503515 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		60AC3008290CC33E00503515 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		60AC300D290CC33E00503515 /* ClicAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClicAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		60AC3011290CC33E00503515 /* ClicAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClicAppTests.swift; sourceTree = "<group>"; };
+		60AC3017290CC33E00503515 /* ClicAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClicAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		60AC301B290CC33E00503515 /* ClicAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClicAppUITests.swift; sourceTree = "<group>"; };
+		60AC301D290CC33E00503515 /* ClicAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClicAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		60AC2FB2290CC2A200503515 /* Frameworks */ = {
+		60AC2FF1290CC33C00503515 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		60AC2FCB290CC2A300503515 /* Frameworks */ = {
+		60AC300A290CC33E00503515 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		60AC2FD5290CC2A300503515 /* Frameworks */ = {
+		60AC3014290CC33E00503515 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -78,138 +78,138 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		60AC2FAC290CC2A200503515 = {
+		60AC2FEB290CC33C00503515 = {
 			isa = PBXGroup;
 			children = (
-				60AC2FB7290CC2A200503515 /* ClipApp */,
-				60AC2FD1290CC2A300503515 /* ClipAppTests */,
-				60AC2FDB290CC2A300503515 /* ClipAppUITests */,
-				60AC2FB6290CC2A200503515 /* Products */,
+				60AC2FF6290CC33C00503515 /* ClicApp */,
+				60AC3010290CC33E00503515 /* ClicAppTests */,
+				60AC301A290CC33E00503515 /* ClicAppUITests */,
+				60AC2FF5290CC33C00503515 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		60AC2FB6290CC2A200503515 /* Products */ = {
+		60AC2FF5290CC33C00503515 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				60AC2FB5290CC2A200503515 /* ClipApp.app */,
-				60AC2FCE290CC2A300503515 /* ClipAppTests.xctest */,
-				60AC2FD8290CC2A300503515 /* ClipAppUITests.xctest */,
+				60AC2FF4290CC33C00503515 /* ClicApp.app */,
+				60AC300D290CC33E00503515 /* ClicAppTests.xctest */,
+				60AC3017290CC33E00503515 /* ClicAppUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		60AC2FB7290CC2A200503515 /* ClipApp */ = {
+		60AC2FF6290CC33C00503515 /* ClicApp */ = {
 			isa = PBXGroup;
 			children = (
-				60AC2FB8290CC2A200503515 /* AppDelegate.swift */,
-				60AC2FBA290CC2A200503515 /* SceneDelegate.swift */,
-				60AC2FBC290CC2A200503515 /* ViewController.swift */,
-				60AC2FBE290CC2A200503515 /* Main.storyboard */,
-				60AC2FC4290CC2A300503515 /* Assets.xcassets */,
-				60AC2FC6290CC2A300503515 /* LaunchScreen.storyboard */,
-				60AC2FC9290CC2A300503515 /* Info.plist */,
-				60AC2FC1290CC2A200503515 /* ClipApp.xcdatamodeld */,
+				60AC2FF7290CC33C00503515 /* AppDelegate.swift */,
+				60AC2FF9290CC33C00503515 /* SceneDelegate.swift */,
+				60AC2FFB290CC33C00503515 /* ViewController.swift */,
+				60AC2FFD290CC33C00503515 /* Main.storyboard */,
+				60AC3003290CC33E00503515 /* Assets.xcassets */,
+				60AC3005290CC33E00503515 /* LaunchScreen.storyboard */,
+				60AC3008290CC33E00503515 /* Info.plist */,
+				60AC3000290CC33C00503515 /* ClicApp.xcdatamodeld */,
 			);
-			path = ClipApp;
+			path = ClicApp;
 			sourceTree = "<group>";
 		};
-		60AC2FD1290CC2A300503515 /* ClipAppTests */ = {
+		60AC3010290CC33E00503515 /* ClicAppTests */ = {
 			isa = PBXGroup;
 			children = (
-				60AC2FD2290CC2A300503515 /* ClipAppTests.swift */,
+				60AC3011290CC33E00503515 /* ClicAppTests.swift */,
 			);
-			path = ClipAppTests;
+			path = ClicAppTests;
 			sourceTree = "<group>";
 		};
-		60AC2FDB290CC2A300503515 /* ClipAppUITests */ = {
+		60AC301A290CC33E00503515 /* ClicAppUITests */ = {
 			isa = PBXGroup;
 			children = (
-				60AC2FDC290CC2A300503515 /* ClipAppUITests.swift */,
-				60AC2FDE290CC2A300503515 /* ClipAppUITestsLaunchTests.swift */,
+				60AC301B290CC33E00503515 /* ClicAppUITests.swift */,
+				60AC301D290CC33E00503515 /* ClicAppUITestsLaunchTests.swift */,
 			);
-			path = ClipAppUITests;
+			path = ClicAppUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		60AC2FB4290CC2A200503515 /* ClipApp */ = {
+		60AC2FF3290CC33C00503515 /* ClicApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 60AC2FE2290CC2A300503515 /* Build configuration list for PBXNativeTarget "ClipApp" */;
+			buildConfigurationList = 60AC3021290CC33E00503515 /* Build configuration list for PBXNativeTarget "ClicApp" */;
 			buildPhases = (
-				60AC2FB1290CC2A200503515 /* Sources */,
-				60AC2FB2290CC2A200503515 /* Frameworks */,
-				60AC2FB3290CC2A200503515 /* Resources */,
+				60AC2FF0290CC33C00503515 /* Sources */,
+				60AC2FF1290CC33C00503515 /* Frameworks */,
+				60AC2FF2290CC33C00503515 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = ClipApp;
-			productName = ClipApp;
-			productReference = 60AC2FB5290CC2A200503515 /* ClipApp.app */;
+			name = ClicApp;
+			productName = ClicApp;
+			productReference = 60AC2FF4290CC33C00503515 /* ClicApp.app */;
 			productType = "com.apple.product-type.application";
 		};
-		60AC2FCD290CC2A300503515 /* ClipAppTests */ = {
+		60AC300C290CC33E00503515 /* ClicAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 60AC2FE5290CC2A300503515 /* Build configuration list for PBXNativeTarget "ClipAppTests" */;
+			buildConfigurationList = 60AC3024290CC33E00503515 /* Build configuration list for PBXNativeTarget "ClicAppTests" */;
 			buildPhases = (
-				60AC2FCA290CC2A300503515 /* Sources */,
-				60AC2FCB290CC2A300503515 /* Frameworks */,
-				60AC2FCC290CC2A300503515 /* Resources */,
+				60AC3009290CC33E00503515 /* Sources */,
+				60AC300A290CC33E00503515 /* Frameworks */,
+				60AC300B290CC33E00503515 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				60AC2FD0290CC2A300503515 /* PBXTargetDependency */,
+				60AC300F290CC33E00503515 /* PBXTargetDependency */,
 			);
-			name = ClipAppTests;
-			productName = ClipAppTests;
-			productReference = 60AC2FCE290CC2A300503515 /* ClipAppTests.xctest */;
+			name = ClicAppTests;
+			productName = ClicAppTests;
+			productReference = 60AC300D290CC33E00503515 /* ClicAppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		60AC2FD7290CC2A300503515 /* ClipAppUITests */ = {
+		60AC3016290CC33E00503515 /* ClicAppUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 60AC2FE8290CC2A300503515 /* Build configuration list for PBXNativeTarget "ClipAppUITests" */;
+			buildConfigurationList = 60AC3027290CC33E00503515 /* Build configuration list for PBXNativeTarget "ClicAppUITests" */;
 			buildPhases = (
-				60AC2FD4290CC2A300503515 /* Sources */,
-				60AC2FD5290CC2A300503515 /* Frameworks */,
-				60AC2FD6290CC2A300503515 /* Resources */,
+				60AC3013290CC33E00503515 /* Sources */,
+				60AC3014290CC33E00503515 /* Frameworks */,
+				60AC3015290CC33E00503515 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				60AC2FDA290CC2A300503515 /* PBXTargetDependency */,
+				60AC3019290CC33E00503515 /* PBXTargetDependency */,
 			);
-			name = ClipAppUITests;
-			productName = ClipAppUITests;
-			productReference = 60AC2FD8290CC2A300503515 /* ClipAppUITests.xctest */;
+			name = ClicAppUITests;
+			productName = ClicAppUITests;
+			productReference = 60AC3017290CC33E00503515 /* ClicAppUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		60AC2FAD290CC2A200503515 /* Project object */ = {
+		60AC2FEC290CC33C00503515 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1400;
 				LastUpgradeCheck = 1400;
 				TargetAttributes = {
-					60AC2FB4290CC2A200503515 = {
+					60AC2FF3290CC33C00503515 = {
 						CreatedOnToolsVersion = 14.0.1;
 					};
-					60AC2FCD290CC2A300503515 = {
+					60AC300C290CC33E00503515 = {
 						CreatedOnToolsVersion = 14.0.1;
-						TestTargetID = 60AC2FB4290CC2A200503515;
+						TestTargetID = 60AC2FF3290CC33C00503515;
 					};
-					60AC2FD7290CC2A300503515 = {
+					60AC3016290CC33E00503515 = {
 						CreatedOnToolsVersion = 14.0.1;
-						TestTargetID = 60AC2FB4290CC2A200503515;
+						TestTargetID = 60AC2FF3290CC33C00503515;
 					};
 				};
 			};
-			buildConfigurationList = 60AC2FB0290CC2A200503515 /* Build configuration list for PBXProject "ClipApp" */;
+			buildConfigurationList = 60AC2FEF290CC33C00503515 /* Build configuration list for PBXProject "ClicApp" */;
 			compatibilityVersion = "Xcode 11.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -217,37 +217,37 @@
 				en,
 				Base,
 			);
-			mainGroup = 60AC2FAC290CC2A200503515;
-			productRefGroup = 60AC2FB6290CC2A200503515 /* Products */;
+			mainGroup = 60AC2FEB290CC33C00503515;
+			productRefGroup = 60AC2FF5290CC33C00503515 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				60AC2FB4290CC2A200503515 /* ClipApp */,
-				60AC2FCD290CC2A300503515 /* ClipAppTests */,
-				60AC2FD7290CC2A300503515 /* ClipAppUITests */,
+				60AC2FF3290CC33C00503515 /* ClicApp */,
+				60AC300C290CC33E00503515 /* ClicAppTests */,
+				60AC3016290CC33E00503515 /* ClicAppUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		60AC2FB3290CC2A200503515 /* Resources */ = {
+		60AC2FF2290CC33C00503515 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				60AC2FC8290CC2A300503515 /* LaunchScreen.storyboard in Resources */,
-				60AC2FC5290CC2A300503515 /* Assets.xcassets in Resources */,
-				60AC2FC0290CC2A200503515 /* Main.storyboard in Resources */,
+				60AC3007290CC33E00503515 /* LaunchScreen.storyboard in Resources */,
+				60AC3004290CC33E00503515 /* Assets.xcassets in Resources */,
+				60AC2FFF290CC33C00503515 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		60AC2FCC290CC2A300503515 /* Resources */ = {
+		60AC300B290CC33E00503515 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		60AC2FD6290CC2A300503515 /* Resources */ = {
+		60AC3015290CC33E00503515 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -257,62 +257,62 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		60AC2FB1290CC2A200503515 /* Sources */ = {
+		60AC2FF0290CC33C00503515 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				60AC2FBD290CC2A200503515 /* ViewController.swift in Sources */,
-				60AC2FC3290CC2A200503515 /* ClipApp.xcdatamodeld in Sources */,
-				60AC2FB9290CC2A200503515 /* AppDelegate.swift in Sources */,
-				60AC2FBB290CC2A200503515 /* SceneDelegate.swift in Sources */,
+				60AC3002290CC33C00503515 /* ClicApp.xcdatamodeld in Sources */,
+				60AC2FFC290CC33C00503515 /* ViewController.swift in Sources */,
+				60AC2FF8290CC33C00503515 /* AppDelegate.swift in Sources */,
+				60AC2FFA290CC33C00503515 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		60AC2FCA290CC2A300503515 /* Sources */ = {
+		60AC3009290CC33E00503515 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				60AC2FD3290CC2A300503515 /* ClipAppTests.swift in Sources */,
+				60AC3012290CC33E00503515 /* ClicAppTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		60AC2FD4290CC2A300503515 /* Sources */ = {
+		60AC3013290CC33E00503515 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				60AC2FDF290CC2A300503515 /* ClipAppUITestsLaunchTests.swift in Sources */,
-				60AC2FDD290CC2A300503515 /* ClipAppUITests.swift in Sources */,
+				60AC301C290CC33E00503515 /* ClicAppUITests.swift in Sources */,
+				60AC301E290CC33E00503515 /* ClicAppUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		60AC2FD0290CC2A300503515 /* PBXTargetDependency */ = {
+		60AC300F290CC33E00503515 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 60AC2FB4290CC2A200503515 /* ClipApp */;
-			targetProxy = 60AC2FCF290CC2A300503515 /* PBXContainerItemProxy */;
+			target = 60AC2FF3290CC33C00503515 /* ClicApp */;
+			targetProxy = 60AC300E290CC33E00503515 /* PBXContainerItemProxy */;
 		};
-		60AC2FDA290CC2A300503515 /* PBXTargetDependency */ = {
+		60AC3019290CC33E00503515 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 60AC2FB4290CC2A200503515 /* ClipApp */;
-			targetProxy = 60AC2FD9290CC2A300503515 /* PBXContainerItemProxy */;
+			target = 60AC2FF3290CC33C00503515 /* ClicApp */;
+			targetProxy = 60AC3018290CC33E00503515 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		60AC2FBE290CC2A200503515 /* Main.storyboard */ = {
+		60AC2FFD290CC33C00503515 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				60AC2FBF290CC2A200503515 /* Base */,
+				60AC2FFE290CC33C00503515 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		60AC2FC6290CC2A300503515 /* LaunchScreen.storyboard */ = {
+		60AC3005290CC33E00503515 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				60AC2FC7290CC2A300503515 /* Base */,
+				60AC3006290CC33E00503515 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -320,7 +320,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		60AC2FE0290CC2A300503515 /* Debug */ = {
+		60AC301F290CC33E00503515 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -380,7 +380,7 @@
 			};
 			name = Debug;
 		};
-		60AC2FE1290CC2A300503515 /* Release */ = {
+		60AC3020290CC33E00503515 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -434,7 +434,7 @@
 			};
 			name = Release;
 		};
-		60AC2FE3290CC2A300503515 /* Debug */ = {
+		60AC3022290CC33E00503515 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -443,7 +443,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 9XQN429298;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ClipApp/Info.plist;
+				INFOPLIST_FILE = ClicApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -454,7 +454,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jesseoseafiana.ClipApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jesseoseafiana.ClicApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -462,7 +462,7 @@
 			};
 			name = Debug;
 		};
-		60AC2FE4290CC2A300503515 /* Release */ = {
+		60AC3023290CC33E00503515 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -471,7 +471,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 9XQN429298;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ClipApp/Info.plist;
+				INFOPLIST_FILE = ClicApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -482,7 +482,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jesseoseafiana.ClipApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jesseoseafiana.ClicApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -490,7 +490,7 @@
 			};
 			name = Release;
 		};
-		60AC2FE6290CC2A300503515 /* Debug */ = {
+		60AC3025290CC33E00503515 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -501,16 +501,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jesseoseafiana.ClipAppTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jesseoseafiana.ClicAppTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClipApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ClipApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClicApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ClicApp";
 			};
 			name = Debug;
 		};
-		60AC2FE7290CC2A300503515 /* Release */ = {
+		60AC3026290CC33E00503515 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -521,16 +521,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jesseoseafiana.ClipAppTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jesseoseafiana.ClicAppTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClipApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ClipApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClicApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ClicApp";
 			};
 			name = Release;
 		};
-		60AC2FE9290CC2A300503515 /* Debug */ = {
+		60AC3028290CC33E00503515 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -539,16 +539,16 @@
 				DEVELOPMENT_TEAM = 9XQN429298;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jesseoseafiana.ClipAppUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jesseoseafiana.ClicAppUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = ClipApp;
+				TEST_TARGET_NAME = ClicApp;
 			};
 			name = Debug;
 		};
-		60AC2FEA290CC2A300503515 /* Release */ = {
+		60AC3029290CC33E00503515 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -557,50 +557,50 @@
 				DEVELOPMENT_TEAM = 9XQN429298;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jesseoseafiana.ClipAppUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jesseoseafiana.ClicAppUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = ClipApp;
+				TEST_TARGET_NAME = ClicApp;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		60AC2FB0290CC2A200503515 /* Build configuration list for PBXProject "ClipApp" */ = {
+		60AC2FEF290CC33C00503515 /* Build configuration list for PBXProject "ClicApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				60AC2FE0290CC2A300503515 /* Debug */,
-				60AC2FE1290CC2A300503515 /* Release */,
+				60AC301F290CC33E00503515 /* Debug */,
+				60AC3020290CC33E00503515 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		60AC2FE2290CC2A300503515 /* Build configuration list for PBXNativeTarget "ClipApp" */ = {
+		60AC3021290CC33E00503515 /* Build configuration list for PBXNativeTarget "ClicApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				60AC2FE3290CC2A300503515 /* Debug */,
-				60AC2FE4290CC2A300503515 /* Release */,
+				60AC3022290CC33E00503515 /* Debug */,
+				60AC3023290CC33E00503515 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		60AC2FE5290CC2A300503515 /* Build configuration list for PBXNativeTarget "ClipAppTests" */ = {
+		60AC3024290CC33E00503515 /* Build configuration list for PBXNativeTarget "ClicAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				60AC2FE6290CC2A300503515 /* Debug */,
-				60AC2FE7290CC2A300503515 /* Release */,
+				60AC3025290CC33E00503515 /* Debug */,
+				60AC3026290CC33E00503515 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		60AC2FE8290CC2A300503515 /* Build configuration list for PBXNativeTarget "ClipAppUITests" */ = {
+		60AC3027290CC33E00503515 /* Build configuration list for PBXNativeTarget "ClicAppUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				60AC2FE9290CC2A300503515 /* Debug */,
-				60AC2FEA290CC2A300503515 /* Release */,
+				60AC3028290CC33E00503515 /* Debug */,
+				60AC3029290CC33E00503515 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -608,17 +608,17 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		60AC2FC1290CC2A200503515 /* ClipApp.xcdatamodeld */ = {
+		60AC3000290CC33C00503515 /* ClicApp.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				60AC2FC2290CC2A200503515 /* ClipApp.xcdatamodel */,
+				60AC3001290CC33C00503515 /* ClicApp.xcdatamodel */,
 			);
-			currentVersion = 60AC2FC2290CC2A200503515 /* ClipApp.xcdatamodel */;
-			path = ClipApp.xcdatamodeld;
+			currentVersion = 60AC3001290CC33C00503515 /* ClicApp.xcdatamodel */;
+			path = ClicApp.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
 /* End XCVersionGroup section */
 	};
-	rootObject = 60AC2FAD290CC2A200503515 /* Project object */;
+	rootObject = 60AC2FEC290CC33C00503515 /* Project object */;
 }

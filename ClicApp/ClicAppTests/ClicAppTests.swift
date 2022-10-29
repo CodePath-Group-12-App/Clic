@@ -1,14 +1,14 @@
 //
-//  ClipAppTests.swift
-//  ClipAppTests
+//  ClicAppTests.swift
+//  ClicAppTests
 //
 //  Created by Jesse Oseafiana on 10/28/22.
 //
 
 import XCTest
-@testable import ClipApp
+@testable import ClicApp
 
-final class ClipAppTests: XCTestCase {
+final class ClicAppTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

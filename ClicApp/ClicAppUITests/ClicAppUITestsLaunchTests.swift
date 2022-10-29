@@ -1,13 +1,13 @@
 //
-//  ClipAppUITestsLaunchTests.swift
-//  ClipAppUITests
+//  ClicAppUITestsLaunchTests.swift
+//  ClicAppUITests
 //
 //  Created by Jesse Oseafiana on 10/28/22.
 //
 
 import XCTest
 
-final class ClipAppUITestsLaunchTests: XCTestCase {
+final class ClicAppUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
