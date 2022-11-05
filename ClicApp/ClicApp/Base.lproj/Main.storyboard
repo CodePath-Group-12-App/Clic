@@ -80,7 +80,7 @@
             <objects>
                 <viewController id="V8c-8X-VyJ" customClass="MainFeedScreenViewController" customModule="ClicApp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="udg-fM-9b7">
-                        <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+                        <rect key="frame" x="0.0" y="0.0" width="390" height="790"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <viewLayoutGuide key="safeArea" id="LQV-YJ-vta"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -145,7 +145,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="shK-Lh-VSJ"/>
+        <segue reference="C7k-aw-sNV"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="1024" width="1024" height="1024"/>
