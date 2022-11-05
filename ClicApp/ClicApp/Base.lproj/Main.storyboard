@@ -43,7 +43,7 @@
                                     <color key="baseBackgroundColor" red="0.047295875420000001" green="0.047295875420000001" blue="0.047295875420000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <segue destination="V8c-8X-VyJ" kind="presentation" id="C7k-aw-sNV"/>
+                                    <segue destination="OLf-z7-lkr" kind="show" id="gpf-VL-kAt"/>
                                 </connections>
                             </button>
                             <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="D47-2T-faJ">
@@ -80,7 +80,7 @@
             <objects>
                 <viewController id="V8c-8X-VyJ" customClass="MainFeedScreenViewController" customModule="ClicApp" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="udg-fM-9b7">
-                        <rect key="frame" x="0.0" y="0.0" width="390" height="790"/>
+                        <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <viewLayoutGuide key="safeArea" id="LQV-YJ-vta"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -111,6 +111,7 @@
         <scene sceneID="8lZ-dY-0Ur">
             <objects>
                 <tabBarController id="OLf-z7-lkr" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="Mm2-Lb-hJI"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="56X-mc-wTp">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="49"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -144,9 +145,6 @@
             <point key="canvasLocation" x="-371" y="-2"/>
         </scene>
     </scenes>
-    <inferredMetricsTieBreakers>
-        <segue reference="C7k-aw-sNV"/>
-    </inferredMetricsTieBreakers>
     <resources>
         <image name="1024" width="1024" height="1024"/>
         <systemColor name="labelColor">
