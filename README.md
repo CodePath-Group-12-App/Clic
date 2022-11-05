@@ -27,15 +27,15 @@ This app is for users that want to encourage activity within their neighborhoods
 
 **Required Must-have Stories**
 
-* [ ] User sees an app icon on the home screen and can see a styled launch screen
-* [ ] Users can run applications on their own device
-* [ ] Users are able to view an organized login page
+* [x] User sees an app icon on the home screen and can see a styled launch screen
+* [x] Users can run applications on their own device
+* [x] Users are able to view an organized login page
 * [ ] User should be able to post planned/ongoing activites
 * [ ] User should be able to say they are interested and recieve updates from the activity
 * [ ] User should be able to post pictures from the evenr
 * [ ] User can upvote other peoples posts
 * [ ] User can comment on other peoples posts
-* [ ] User can see two tabs, one main feed (local posts) and another tab with their friends private posts
+* [x] User can see two tabs, one main feed (local posts) and another tab with their friends private posts
 
 **Optional Nice-to-have Stories**
 
