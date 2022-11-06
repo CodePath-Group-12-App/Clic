@@ -19,6 +19,7 @@
 		60AC305B290CC5AE00503515 /* ClicAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AC305A290CC5AE00503515 /* ClicAppUITests.swift */; };
 		60AC305D290CC5AE00503515 /* ClicAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60AC305C290CC5AE00503515 /* ClicAppUITestsLaunchTests.swift */; };
 		71BA2B899385EC67F9753A9E /* Pods_ClicApp_ClicAppUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24118975B80A167CA89B75FB /* Pods_ClicApp_ClicAppUITests.framework */; };
+		8668DDF82917404100D9DF0D /* credentials.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8668DDF72917404100D9DF0D /* credentials.plist */; };
 		D4027873B0A15964C335228F /* Pods_ClicApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81861EEA29A4F2C0B7A7DB8C /* Pods_ClicApp.framework */; };
 /* End PBXBuildFile section */
 
@@ -59,6 +60,7 @@
 		60AC305A290CC5AE00503515 /* ClicAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClicAppUITests.swift; sourceTree = "<group>"; };
 		60AC305C290CC5AE00503515 /* ClicAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClicAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		81861EEA29A4F2C0B7A7DB8C /* Pods_ClicApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ClicApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8668DDF72917404100D9DF0D /* credentials.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = credentials.plist; sourceTree = "<group>"; };
 		9D0E7B1322577C39727BA27E /* Pods-ClicApp-ClicAppUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClicApp-ClicAppUITests.release.xcconfig"; path = "Target Support Files/Pods-ClicApp-ClicAppUITests/Pods-ClicApp-ClicAppUITests.release.xcconfig"; sourceTree = "<group>"; };
 		A53150F30A7F43DE1B915F0D /* Pods_ClicAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ClicAppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA5FA7641FD0043EE7789AE4 /* Pods-ClicApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClicApp.debug.xcconfig"; path = "Target Support Files/Pods-ClicApp/Pods-ClicApp.debug.xcconfig"; sourceTree = "<group>"; };
@@ -135,9 +137,10 @@
 				60AC3038290CC5AC00503515 /* SceneDelegate.swift */,
 				60AC303A290CC5AC00503515 /* ViewController.swift */,
 				60AC303C290CC5AC00503515 /* Main.storyboard */,
-				60AC3042290CC5AD00503515 /* Assets.xcassets */,
 				60AC3044290CC5AD00503515 /* LaunchScreen.storyboard */,
+				60AC3042290CC5AD00503515 /* Assets.xcassets */,
 				60AC3047290CC5AD00503515 /* Info.plist */,
+				8668DDF72917404100D9DF0D /* credentials.plist */,
 				60AC303F290CC5AC00503515 /* ClicApp.xcdatamodeld */,
 			);
 			path = ClicApp;
@@ -280,6 +283,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				60AC3046290CC5AD00503515 /* LaunchScreen.storyboard in Resources */,
+				8668DDF82917404100D9DF0D /* credentials.plist in Resources */,
 				60AC3043290CC5AD00503515 /* Assets.xcassets in Resources */,
 				60AC303E290CC5AC00503515 /* Main.storyboard in Resources */,
 			);
@@ -590,7 +594,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 9XQN429298;
+				DEVELOPMENT_TEAM = D37ZSULAQW;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ClicApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -619,7 +623,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 9XQN429298;
+				DEVELOPMENT_TEAM = D37ZSULAQW;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ClicApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
