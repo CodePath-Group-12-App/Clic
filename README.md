@@ -32,7 +32,7 @@ This app is for users that want to encourage activity within their neighborhoods
 * [x] Users are able to view an organized login page
 * [ ] User should be able to post planned/ongoing activites
 * [ ] User should be able to say they are interested and recieve updates from the activity
-* [ ] User should be able to post pictures from the evenr
+* [x] User should be able to post pictures from the event
 * [ ] User can upvote other peoples posts
 * [ ] User can comment on other peoples posts
 * [x] User can see two tabs, one main feed (local posts) and another tab with their friends private posts

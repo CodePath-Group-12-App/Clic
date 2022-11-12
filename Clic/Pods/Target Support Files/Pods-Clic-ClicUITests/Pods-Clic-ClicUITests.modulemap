@@ -1,0 +1,6 @@
+framework module Pods_Clic_ClicUITests {
+  umbrella header "Pods-Clic-ClicUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
