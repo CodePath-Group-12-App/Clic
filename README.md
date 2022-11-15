@@ -32,7 +32,7 @@ This app is for users that want to encourage activity within their neighborhoods
 * [x] Users are able to view an organized login page
 * [ ] User should be able to post planned/ongoing activites
 * [ ] User should be able to say they are interested and recieve updates from the activity
-* [ ] User should be able to post pictures from the evenr
+* [x] User should be able to post pictures from the event
 * [ ] User can upvote other peoples posts
 * [ ] User can comment on other peoples posts
 * [x] User can see two tabs, one main feed (local posts) and another tab with their friends private posts
@@ -87,6 +87,7 @@ This app is for users that want to encourage activity within their neighborhoods
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/7Jws9s6I9Q.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/s69Hxa17Yy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### [BONUS] Digital Wireframes & Mockups
 

@@ -1,6 +1,0 @@
-framework module Pods_ClicApp_ClicAppUITests {
-  umbrella header "Pods-ClicApp-ClicAppUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
