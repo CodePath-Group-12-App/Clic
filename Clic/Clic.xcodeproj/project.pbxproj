@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		132B1F0AF6C3F55352C70BFF /* Pods_Clic.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F3056ADDCAF9389BAD31D0AD /* Pods_Clic.framework */; };
+		4B17FC042924132700325D18 /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B17FC032924132700325D18 /* PostTableViewCell.swift */; };
+		4B17FC06292413A800325D18 /* MainFeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B17FC05292413A800325D18 /* MainFeedViewController.swift */; };
+		4B17FC082924167800325D18 /* PostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B17FC072924167800325D18 /* PostViewController.swift */; };
 		60A58A8F291FCB3100BAA877 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A58A8E291FCB3100BAA877 /* AppDelegate.swift */; };
 		60A58A91291FCB3100BAA877 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A58A90291FCB3100BAA877 /* SceneDelegate.swift */; };
 		60A58A96291FCB3100BAA877 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60A58A94291FCB3100BAA877 /* Main.storyboard */; };
@@ -44,6 +47,9 @@
 		271F42EDDC0CEFDEF16E35E5 /* Pods-Clic-ClicUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Clic-ClicUITests.debug.xcconfig"; path = "Target Support Files/Pods-Clic-ClicUITests/Pods-Clic-ClicUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		27554510B8B3582FBFCE5338 /* Pods-ClicTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClicTests.debug.xcconfig"; path = "Target Support Files/Pods-ClicTests/Pods-ClicTests.debug.xcconfig"; sourceTree = "<group>"; };
 		2F4E3E35B997C132185985ED /* Pods-Clic.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Clic.release.xcconfig"; path = "Target Support Files/Pods-Clic/Pods-Clic.release.xcconfig"; sourceTree = "<group>"; };
+		4B17FC032924132700325D18 /* PostTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostTableViewCell.swift; sourceTree = "<group>"; };
+		4B17FC05292413A800325D18 /* MainFeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainFeedViewController.swift; sourceTree = "<group>"; };
+		4B17FC072924167800325D18 /* PostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostViewController.swift; sourceTree = "<group>"; };
 		54BB066936C995C7FC4F3677 /* Pods_ClicTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ClicTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		60A58A8B291FCB3100BAA877 /* Clic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Clic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60A58A8E291FCB3100BAA877 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -122,6 +128,9 @@
 				60A58A9F291FCB3200BAA877 /* Info.plist */,
 				60A58A9C291FCB3200BAA877 /* LaunchScreen.storyboard */,
 				60A58A94291FCB3100BAA877 /* Main.storyboard */,
+				4B17FC072924167800325D18 /* PostViewController.swift */,
+				4B17FC05292413A800325D18 /* MainFeedViewController.swift */,
+				4B17FC032924132700325D18 /* PostTableViewCell.swift */,
 				60A58A90291FCB3100BAA877 /* SceneDelegate.swift */,
 			);
 			path = Clic;
@@ -164,7 +173,6 @@
 				27554510B8B3582FBFCE5338 /* Pods-ClicTests.debug.xcconfig */,
 				78138E21D5F77EA1A9DE03F1 /* Pods-ClicTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -407,9 +415,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B17FC082924167800325D18 /* PostViewController.swift in Sources */,
 				60A58A99291FCB3100BAA877 /* Clic.xcdatamodeld in Sources */,
+				4B17FC06292413A800325D18 /* MainFeedViewController.swift in Sources */,
 				60A58A8F291FCB3100BAA877 /* AppDelegate.swift in Sources */,
 				60A58A91291FCB3100BAA877 /* SceneDelegate.swift in Sources */,
+				4B17FC042924132700325D18 /* PostTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
