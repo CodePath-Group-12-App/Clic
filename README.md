@@ -81,6 +81,7 @@ This app is for users that want to encourage activity within their neighborhoods
 ## Wireframes
 
 <img src="https://i.imgur.com/lO4PIoS.jpg" width=600>
+https://codepath.slack.com/files/U03G86VK3HR/F047LJ2EQJZ/login.pdf?origin_team=T0J064FCJ&origin_channel=C0428DVQEEM
 
 ## Current Video Walkthrough
 
