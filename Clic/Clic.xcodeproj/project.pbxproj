@@ -128,8 +128,8 @@
 				60A58A9F291FCB3200BAA877 /* Info.plist */,
 				60A58A9C291FCB3200BAA877 /* LaunchScreen.storyboard */,
 				60A58A94291FCB3100BAA877 /* Main.storyboard */,
-				4B17FC072924167800325D18 /* PostViewController.swift */,
 				4B17FC05292413A800325D18 /* MainFeedViewController.swift */,
+				4B17FC072924167800325D18 /* PostViewController.swift */,
 				4B17FC032924132700325D18 /* PostTableViewCell.swift */,
 				60A58A90291FCB3100BAA877 /* SceneDelegate.swift */,
 			);
