@@ -67,7 +67,8 @@ This app is for users that want to encourage activity within their neighborhoods
 
 ## Wireframes
 
-<img src="https://i.imgur.com/lO4PIoS.jpg" width=600>
+![Note Nov 18, 2022](https://user-images.githubusercontent.com/108974230/202836161-5d202340-79e1-4838-a209-bbadd0f090f2.png)
+
 
 ## Current Video Walkthrough
 
