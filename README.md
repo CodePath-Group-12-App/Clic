@@ -74,6 +74,7 @@ This app is for users that want to encourage activity within their neighborhoods
 
 Here's a walkthrough of implemented user stories:
 
+https://www.youtube.com/watch?v=wihb8Uqzt64
 
 ### [BONUS] Digital Wireframes & Mockups
 
