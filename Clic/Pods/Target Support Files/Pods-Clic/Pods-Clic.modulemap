@@ -1,6 +1,0 @@
-framework module Pods_Clic {
-  umbrella header "Pods-Clic-umbrella.h"
-
-  export *
-  module * { export * }
-}
