@@ -20,6 +20,11 @@ This app is for users that want to encourage activity within their neighborhoods
 - **Habit:** Users can post events any time and join them and after the event post pictures of their activites to share with all the guests. 
 - **Scope:** Starting scope would be creating a general feed for everyone that displays the latest activites planned or going on. We would like to implement a way to post pictures about the event. 
 
+## Current Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+https://www.youtube.com/watch?v=wihb8Uqzt64
 
 ## Product Spec
 
@@ -69,12 +74,6 @@ This app is for users that want to encourage activity within their neighborhoods
 
 ![Note Nov 18, 2022](https://user-images.githubusercontent.com/108974230/202836161-5d202340-79e1-4838-a209-bbadd0f090f2.png)
 
-
-## Current Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-https://www.youtube.com/watch?v=wihb8Uqzt64
 
 ### [BONUS] Digital Wireframes & Mockups
 
