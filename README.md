@@ -74,8 +74,6 @@ This app is for users that want to encourage activity within their neighborhoods
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/7Jws9s6I9Q.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='http://g.recordit.co/s69Hxa17Yy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### [BONUS] Digital Wireframes & Mockups
 
